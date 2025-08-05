@@ -2,7 +2,7 @@ Nodejsname:  CI
 
 on:
   workflow_dispatch:
-  .
+  /hdj:
 
 jobs:
   build:
