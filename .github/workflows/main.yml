@@ -1,9 +1,7 @@
-Nodejsname:  CI
+Nodejsname: Rafsan-bby
 
 on:
   workflow_dispatch:
-  /hdj:
-
 jobs:
   build:
 
